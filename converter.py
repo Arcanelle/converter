@@ -1,4 +1,4 @@
-#programme de conversion de miles/h en km/h
+#programme de conversion de mph to km/h ou km/h to mph
 #Pour rappel, 1 mile = 1.609Km
 #Essayez d'arrondir au centième près
 
